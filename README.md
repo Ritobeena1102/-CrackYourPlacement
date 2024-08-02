@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Backtracking
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
