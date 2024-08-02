@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Array
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
