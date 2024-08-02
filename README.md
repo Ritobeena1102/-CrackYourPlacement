@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Matrix
