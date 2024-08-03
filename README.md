@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
+| [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Iterator
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
