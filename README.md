@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0403-frog-jump) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
