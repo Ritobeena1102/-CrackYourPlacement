@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0923-super-egg-drop](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Iterator
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0923-super-egg-drop](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0923-super-egg-drop](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Greedy
 |  |
 | ------- |
