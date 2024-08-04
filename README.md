@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Queue
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
