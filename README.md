@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
