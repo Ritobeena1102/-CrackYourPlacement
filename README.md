@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## Combinatorics
 |  |
 | ------- |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
