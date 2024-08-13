@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
