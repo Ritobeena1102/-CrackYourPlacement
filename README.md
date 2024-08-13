@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0051-n-queens) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0047-permutations-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
