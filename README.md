@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1022-unique-paths-iii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1022-unique-paths-iii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [1022-unique-paths-iii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 ## Combinatorics
 |  |
 | ------- |
