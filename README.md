@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
