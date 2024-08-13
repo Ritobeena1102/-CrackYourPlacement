@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
@@ -256,10 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 ## Merge Sort
 |  |
