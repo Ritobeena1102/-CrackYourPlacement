@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 ## String
 |  |
