@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
