@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1022-unique-paths-iii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Divide and Conquer
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0923-super-egg-drop](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+## Geometry
+|  |
+| ------- |
+| [1733-maximum-number-of-visible-points](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 <!---LeetCode Topics End-->
