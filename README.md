@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
