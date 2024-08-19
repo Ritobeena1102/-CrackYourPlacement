@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 ## Array
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ritobeena1102/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Monotonic Queue
 |  |
